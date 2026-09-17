@@ -119,3 +119,15 @@ every credential and the agent's memory are in it.
 
 The app is limited to 2 CPUs and 4 GiB of memory. The agent's own commands run
 inside the same limits. Raise `limits` in `template.yaml` if you need more.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
