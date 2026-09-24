@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/cubeshipd/cubeship-openclaw-template/compare/v1.0.3...v1.0.4) (2026-09-24)
+
+
+### Bug Fixes
+
+* update openclaw/openclaw docker tag to v2026.9.6 ([#9](https://github.com/cubeshipd/cubeship-openclaw-template/issues/9)) ([79b2723](https://github.com/cubeshipd/cubeship-openclaw-template/commit/79b27237aea88d8451d1eb0b15649faa1ca6f0b2))
+
 ## [1.0.3](https://github.com/cubeshipd/cubeship-openclaw-template/compare/v1.0.2...v1.0.3) (2026-09-21)
 
 
